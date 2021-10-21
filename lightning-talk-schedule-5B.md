@@ -22,7 +22,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 13.01.2022 |         |       |
 | 20.01.2022 | Emil Eichsteininger | What are records in C# and why are they useful? |
 | 27.01.2022 |         |       |
-| 03.02.2022 |         |       |
+| 03.02.2022 | Andreas Sturm | Github Co-Pilot |
 | 10.02.2022 | *blocked* | *2. PLF* |
 | 17.02.2022 |         |       |
 
